@@ -1,5 +1,5 @@
 # Data-analyst-project-
-##🪔 Diwali Sales Analysis##
+##🪔 Diwali Sales Analysis
 A Python-based Exploratory Data Analysis (EDA) project that uncovers customer buying patterns during the Diwali festival season using real sales data.
 
 #📌 Project Overview
